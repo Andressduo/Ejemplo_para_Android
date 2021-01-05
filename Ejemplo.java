@@ -7,6 +7,7 @@ System.out.println("De nuevo un hola mundo");
 String= casa="esta casa es azul";
 System.out.println("nueva linea");
 System.out.println(casa);
+System.out.println("otra linea de codigo");
 
     }
 }
